@@ -13,7 +13,7 @@ public class ClusterTests {
 
     @Test
     public void test(){
-        System.out.println(syncCommands.get("yao"));
+        System.out.println(syncCommands.get("shan"));
     }
 
     @Test
@@ -21,9 +21,4 @@ public class ClusterTests {
         syncCommands.set("yao", "11");
     }
 
-    @Test
-    public void test2(){
-        syncCommands.set("shan1", "33A11");
-        System.out.println(syncCommands.get("shan1"));
-    }
 }

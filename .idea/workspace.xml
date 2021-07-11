@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="09b4e017-089c-4124-95c7-89fc4c547892" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/sentinel-test/src/main/java/com/shan/ClusterTests.java" afterPath="$PROJECT_DIR$/sentinel-test/src/main/java/com/shan/ClusterTests.java" />
-      <change beforePath="$PROJECT_DIR$/sentinel-test/target/classes/com/shan/client/JedisSentinel.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -33,7 +31,7 @@
       <file leaf-file-name="ClusterTests.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sentinel-test/src/main/java/com/shan/ClusterTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="554">
+            <state relative-caret-position="675">
               <caret line="25" column="43" lean-forward="true" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -698,7 +696,7 @@
       <option name="presentableId" value="Default" />
       <updated>1625925921609</updated>
       <workItem from="1625925926340" duration="4652000" />
-      <workItem from="1625980497101" duration="18273000" />
+      <workItem from="1625980497101" duration="18399000" />
     </task>
     <servers />
   </component>
@@ -735,7 +733,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22925000" />
+    <option name="totallyTimeSpent" value="23051000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -939,7 +937,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sentinel-test/src/main/java/com/shan/ClusterTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="554">
+        <state relative-caret-position="675">
           <caret line="25" column="43" lean-forward="true" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
