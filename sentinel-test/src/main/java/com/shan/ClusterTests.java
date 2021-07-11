@@ -13,12 +13,17 @@ public class ClusterTests {
 
     @Test
     public void test(){
-        System.out.println(syncCommands.get("shan"));
+        System.out.println(syncCommands.get("yao"));
     }
 
     @Test
     public void test1(){
         syncCommands.set("yao", "11");
+    }
+
+    @Test
+    public void test2(){
+        syncCommands.set("yao1", "111");
     }
 
 }
