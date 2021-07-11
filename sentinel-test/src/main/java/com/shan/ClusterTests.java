@@ -19,11 +19,17 @@ public class ClusterTests {
     @Test
     public void test1(){
         syncCommands.set("yao", "11");
-    }
+        System.out.println("1111");
+    }git
 
     @Test
     public void test2(){
         syncCommands.set("yao1", "111");
+    }
+
+    @Test
+    public void test3(){
+        syncCommands.set("yao3", "333");
     }
 
 }
