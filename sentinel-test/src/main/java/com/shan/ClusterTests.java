@@ -20,4 +20,10 @@ public class ClusterTests {
     public void test1(){
         syncCommands.set("yao", "11");
     }
+
+    @Test
+    public void test2(){
+        syncCommands.set("shan1", "33A11");
+        System.out.println(syncCommands.get("shan1"));
+    }
 }
